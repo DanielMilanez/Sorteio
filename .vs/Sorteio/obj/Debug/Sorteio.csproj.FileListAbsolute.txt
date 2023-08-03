@@ -1,0 +1,15 @@
+C:\Users\Amazon\source\repos\Sorteio\Sorteio\bin\Debug\Sorteio.exe.config
+C:\Users\Amazon\source\repos\Sorteio\Sorteio\bin\Debug\Sorteio.exe
+C:\Users\Amazon\source\repos\Sorteio\Sorteio\bin\Debug\Sorteio.pdb
+C:\Users\Amazon\source\repos\Sorteio\Sorteio\obj\Debug\Sorteio.csproj.AssemblyReference.cache
+C:\Users\Amazon\source\repos\Sorteio\Sorteio\obj\Debug\Sorteio.csproj.CoreCompileInputs.cache
+C:\Users\Amazon\source\repos\Sorteio\Sorteio\obj\Debug\Sorteio.exe
+C:\Users\Amazon\source\repos\Sorteio\Sorteio\obj\Debug\Sorteio.pdb
+C:\Users\Amazon\source\repos\Sorteio\Sorteio\bin\Debug\EPPlus.dll
+C:\Users\Amazon\source\repos\Sorteio\Sorteio\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Amazon\source\repos\Sorteio\Sorteio\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Amazon\source\repos\Sorteio\Sorteio\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Amazon\source\repos\Sorteio\Sorteio\bin\Debug\EPPlus.xml
+C:\Users\Amazon\source\repos\Sorteio\Sorteio\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Amazon\source\repos\Sorteio\Sorteio\obj\Debug\Sorteio.csproj.CopyComplete
+C:\Users\Amazon\source\repos\Sorteio\Sorteio\obj\Debug\Sorteio.csproj.SuggestedBindingRedirects.cache
